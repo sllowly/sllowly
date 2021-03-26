@@ -3,7 +3,7 @@
 <h3>🛀 About Me</h3>
 
 - 💻 A developer in development
-- 🎵 LOOΠΔ | Amazarashi | Porter Robinson |
+- 🎵 LOOΠΔ | Amazarashi | Porter Robinson | Gorillaz
 - 🎮 OSU! | Zelda | Half-Life | Katana ZERO
 - 📺 Monogatari Series | Yuru Yuri | One Piece
 

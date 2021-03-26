@@ -10,3 +10,4 @@
 ### <samp> Talk Me </samp>
 - email: `kelvemoraiis@gmail.com`
 - twitter: `@sllowlyjs`
+- Discord: `miitstake#1029`
